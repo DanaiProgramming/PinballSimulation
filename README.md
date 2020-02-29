@@ -4,8 +4,7 @@ This program is a simulation of a  "ball" moving through a space
 with boundaries and obstacles(think about the ball in a pinball 
 machine but much much more simplified).
 
-RULES OF MOVEMENT
-
+# RULES OF MOVEMENT
 => This ball can only move sideways  and every time
 it bumps into an obstacle, its direction changes 
 (left -> right/ right -> left). 
@@ -22,8 +21,7 @@ and when it reaches the upper most row its movement will change to
 downward.
 
 
-CHARACTERISTICS
-
+# CHARACTERISTICS
 => The dimensions of grid are 6-by-6, the empty space is denoted by '_'
 
 => It contains 2 obstacles, denoted by 'O'
@@ -31,8 +29,7 @@ CHARACTERISTICS
 => The ball is denoted by '1'
 
 
-INPUT
-
+# INPUT
 =>If the user gives no arguments the program will run its own testing.
 
 =>To run the program with specific arguments the user have to 
